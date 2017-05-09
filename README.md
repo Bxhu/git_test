@@ -1,0 +1,1 @@
+"This is HUAMI's first git project!"
